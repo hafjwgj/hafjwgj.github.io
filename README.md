@@ -23,11 +23,11 @@
 
 <body>
 
-<h1>My Website Title</h1>
+<h1>Marcs Website</h1>
 
 <p>
-    This is my editable website text.
-    Change this to whatever you want.
+    This is my website
+    Watch out, slime before you get slimed.
 </p>
 
 </body> </html>
